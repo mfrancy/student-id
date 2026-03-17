@@ -19,7 +19,7 @@ async function login() {
 
             localStorage.setItem("aluno", JSON.stringify(alunoCompleto))
 
-            window.location.href = "carteirinha.html"
+            window.location.href = "/pages/carteirinha.html"
 
         } else {
 

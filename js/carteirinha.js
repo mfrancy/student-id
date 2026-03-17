@@ -23,3 +23,8 @@ new QRCode(document.getElementById("qrCode"), {
   width: 90,
   height: 90
 });}
+
+function logout() {
+  const btnLogout = document.getElementById('btn-logout')
+  window.location.href = "../index.html"
+}
