@@ -3,7 +3,7 @@ font-family: Inter, Arial, sans-serif;
 
 background-image:
 linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)),
-url("/assets/bgFaculdade.jpg");
+url("../assets/bgFaculdade.jpg");
 
 background-size: cover;
 background-position: center;
