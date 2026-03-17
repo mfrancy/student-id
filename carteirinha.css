@@ -57,7 +57,7 @@
 
 .card-body p {
   margin: 4px 0;
-  color: ##0927BE;
+  color: black;
 }
 
 
@@ -105,7 +105,7 @@ gap:15px;
 
 .logout-btn{
 
-background:##0927BE;
+background:#0927BE;
 color:white;
 
 border:none;
